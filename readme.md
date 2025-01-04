@@ -1,1 +1,2 @@
-# Semantic Search over Godot Docs using GloVe embeddings
+# Semantic Search over Godot Docs using Sentence Transformers
+
